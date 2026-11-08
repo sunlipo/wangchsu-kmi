@@ -1,0 +1,17 @@
+﻿GPLv3 §6 源码提供声明（模板）
+==============================
+
+本二进制/镜像包含 GPLv3 组件（KernelSU-Next / WangchSU）。
+对应源码可从以下地址获取：
+
+  仓库：https://38-76-164-225.sslip.io/toolbox/wangchsu-kmi/
+  版本：<tag 或 commit>
+  获取方式：公开 Git 仓库，可直接 clone / 下载 zip
+
+如公开仓库不可用，可书面申请：
+
+  邮箱：<你的邮箱>
+  有效期：自本产品交付之日起 3 年内
+
+本声明适用于 kernelsu.ko、ksud.exe 及随附的 WangchSU APK。
+卡密后台/发卡面板/授权 API 不属于 GPL 组件。

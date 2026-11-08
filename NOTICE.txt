@@ -1,0 +1,28 @@
+﻿WangchSU · KernelSU GPLv3 二进制分发声明
+==========================================
+
+本产品/镜像包含以下 GPLv3 组件：
+
+1. kernelsu.ko
+   - 项目：KernelSU-Next / WangchSU
+   - 许可证：GNU General Public License v3.0
+   - 源码：https://38-76-164-225.sslip.io/toolbox/wangchsu-kmi/
+   - 对应版本/commit：<填 commit>
+
+2. ksud.exe
+   - 项目：KernelSU-Next userspace
+   - 许可证：GNU General Public License v3.0
+   - 源码：同上仓库 userspace/ 目录
+   - 对应版本/commit：<填 commit>
+
+3. WangchSU.apk（如分发）
+   - 项目：KernelSU-Next manager 分支
+   - 许可证：GNU General Public License v3.0
+   - 源码：同上仓库 manager/ 目录
+   - 对应版本/commit：<填 commit>
+
+GPLv3 全文见本目录 LICENSE。
+
+本产品的卡密后台、发卡面板、授权 API 属于独立服务端代码，不在上述 GPL 组件范围内。
+
+修改/再分发者必须保留本声明，并按 GPLv3 提供对应源码。
